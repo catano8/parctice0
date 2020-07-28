@@ -1,5 +1,5 @@
-# parctice0
+# practice0
 
-##editing file
+## editing file
 
 Its a markdown file in this repository
